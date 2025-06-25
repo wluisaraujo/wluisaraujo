@@ -1,5 +1,5 @@
 ### welcome 👋
-## W. Luís Araujo
+## 
 
 - 💬 Ask me about ...
 - Linux User 💻  [ Fedora | Debian | Ubuntu ] 
